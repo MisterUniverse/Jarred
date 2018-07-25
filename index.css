@@ -1,0 +1,18 @@
+body {
+	background-image: url("cigs.jpg");
+	font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+	color: orange;
+	text-align: center;
+}
+
+iframe	{
+	float: right;
+}
+
+footer {
+	position: absolute;
+	bottom: 0;
+}
